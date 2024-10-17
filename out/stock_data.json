@@ -308,37 +308,37 @@
                     },
                     {
                         "year": "2564",
-                        "close": 12.79
+                        "close": 13.2
                     },
                     {
                         "year": "2563",
-                        "close": 10.5
+                        "close": 11.1
                     },
                     {
                         "year": "2562",
-                        "close": 14.54
+                        "close": 18.8
                     }
                 ],
                 "dividends": [
                     {
                         "year": "2566",
-                        "dividend_amount": 0.682
+                        "dividend_amount": 0.68
                     },
                     {
                         "year": "2565",
-                        "dividend_amount": 0.418
+                        "dividend_amount": 0.42
                     },
                     {
                         "year": "2564",
-                        "dividend_amount": 0.275
+                        "dividend_amount": 0.28
                     },
                     {
                         "year": "2563",
-                        "dividend_amount": 0.753
+                        "dividend_amount": 0.75
                     },
                     {
                         "year": "2562",
-                        "dividend_amount": 0.718
+                        "dividend_amount": 0.72
                     }
                 ]
             }
@@ -349,45 +349,45 @@
                 "prices": [
                     {
                         "year": "2566",
-                        "close": 376.04
+                        "close": 340.54
                     },
                     {
                         "year": "2565",
-                        "close": 239.82
+                        "close": 254.93
                     },
                     {
                         "year": "2564",
-                        "close": 336.32
+                        "close": 266.72
                     },
                     {
                         "year": "2563",
-                        "close": 222.42
+                        "close": 198.44
                     },
                     {
                         "year": "2562",
-                        "close": 157.7
+                        "close": 129.04
                     }
                 ],
                 "dividends": [
                     {
                         "year": "2566",
-                        "dividend_amount": 2.79
+                        "dividend_amount": 0.72
                     },
                     {
                         "year": "2565",
-                        "dividend_amount": 2.54
+                        "dividend_amount": 0.65
                     },
                     {
                         "year": "2564",
-                        "dividend_amount": 2.3
+                        "dividend_amount": 0.59
                     },
                     {
                         "year": "2563",
-                        "dividend_amount": 2.09
+                        "dividend_amount": 0.54
                     },
                     {
                         "year": "2562",
-                        "dividend_amount": 1.89
+                        "dividend_amount": 0.85
                     }
                 ]
             }
@@ -1453,7 +1453,7 @@
                     },
                     {
                         "year": "2565",
-                        "dividend_amount": 0.58
+                        "dividend_amount": 0.56
                     },
                     {
                         "year": "2564",
