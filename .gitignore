@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 /old/
+/out/raw_data/
+/out/Solutions15percent.csv
